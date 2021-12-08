@@ -8,7 +8,7 @@ El diagrama de flujo que tenemos en nuestro codigo es el siguiente:
 
 ![Diagrama de flujo laberinto](https://github.com/jzazooro/Laberinto/blob/main/DIAGRAMADEFLUJOLABERINTO.jpg)
 
-'''laberinto= [
+```laberinto= [
     ['E', 'M', 'M', 'M', 'M'],
     ['C', 'M', 'C', 'C', 'C'],
     ['C', 'M', 'C', 'M', 'C'],
